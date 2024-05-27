@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @madhu-balagaa
-- 👀 I’m interested in python fullstack developement
-- 🌱 I’m currently learning python programming language
-- 💞️ I’m looking to collaborate on ...
+- 👀 I have completed my python fullstack internship at CODING BRAINS.
+- 🌱 I’m Good at Python,Django,Html5,Css3,Bootstrap,Oracle,Sqlite3,Visual Studio code,Jupyter Notebook.
+- I'm Currently learning Java Full stack development.
+- I have  succesfully deployed my all  Capstone projects in Github and pythonanywhere.
+- 💞️ I’m looking for a job in Top MNC
 - 📫 How to reach me madhubalagaa@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: I regularly practice[Python,HTML,CSS,Oracle database,Bootstrap,Python Libraries].
 - ⚡ Fun fact: ...
 
 <!---
